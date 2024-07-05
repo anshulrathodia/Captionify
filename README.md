@@ -3,6 +3,7 @@
 ## Overview
 
 This project is an Image Caption Generator built using TensorFlow, leveraging VGG16 for image feature extraction and LSTM for generating precise captions. The model integrates CNN and LSTM through feature concatenation to predict subsequent words in captions, achieving a BLEU score of 0.535, indicating effective caption generation close to human reference captions. The application is deployed using Streamlit for an interactive web interface.
+
 <img width="401" alt="250158178-ab509878-94ba-4318-a3e2-ca50baa47630" src="https://github.com/anshulrathodia/Image-Caption-Generator/assets/155772558/516af9bd-bcfb-4556-b4b3-b4d5c28411ce">
 
 ## Features
