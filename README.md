@@ -1,11 +1,9 @@
 # Image-Caption-Generator
-In this project, we developed an Image Caption Generator using deep learning techniques. The aim is to build a model that can generate meaningful textual descriptions for given input images.
-# Model Architecture
-<img width="401" alt="250158178-ab509878-94ba-4318-a3e2-ca50baa47630" src="https://github.com/anshulrathodia/Image-Caption-Generator/assets/155772558/516af9bd-bcfb-4556-b4b3-b4d5c28411ce">
 
 ## Overview
 
 This project is an Image Caption Generator built using TensorFlow, leveraging VGG16 for image feature extraction and LSTM for generating precise captions. The model integrates CNN and LSTM through feature concatenation to predict subsequent words in captions, achieving a BLEU score of 0.535, indicating effective caption generation close to human reference captions. The application is deployed using Streamlit for an interactive web interface.
+<img width="401" alt="250158178-ab509878-94ba-4318-a3e2-ca50baa47630" src="https://github.com/anshulrathodia/Image-Caption-Generator/assets/155772558/516af9bd-bcfb-4556-b4b3-b4d5c28411ce">
 
 ## Features
 
@@ -59,18 +57,3 @@ The model's performance is evaluated using the BLEU score, which measures the si
 
 The application is deployed using Streamlit, providing an interactive web interface for users to upload images and generate captions.
 
-## Contributing
-
-If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome any improvements and suggestions.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For any questions or inquiries, please contact [yourname@example.com](mailto:yourname@example.com).
-
----
-
-*Developed by Your Name*
