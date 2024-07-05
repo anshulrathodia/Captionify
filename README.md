@@ -38,12 +38,6 @@ To run this project locally, follow these steps:
     streamlit run app.py
     ```
 
-## Usage
-
-1. **Upload an Image**: Click the 'Browse files' button to upload an image.
-2. **Generate Caption**: Click the 'Generate Caption' button to get the caption for the uploaded image.
-3. **View Results**: The generated caption will be displayed below the image.
-
 ## Model Details
 
 - **VGG16**: A convolutional neural network model used for extracting high-level features from images.
