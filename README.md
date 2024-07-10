@@ -1,4 +1,4 @@
-# Image-Caption-Generator
+# CAPTIONIFY
 
 ## Overview
 
