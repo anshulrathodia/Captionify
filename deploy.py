@@ -80,8 +80,7 @@ def main():
     st.title("Image Caption Generator")
     st.markdown("---")
     st.subheader('Created by:')
-    st.markdown('[Ankita Anand](https://www.linkedin.com/in/ankita-anand-75286b218/)')
-    st.markdown('[Aryan Singh](https://www.linkedin.com/in/aryan-singh0909/)')
+    st.markdown('[Anshul Rathodia](www.linkedin.com/in/anshul-rathodia)')
 
     # Display file uploader
     uploaded_file = st.file_uploader("Upload an image to generate the caption:", type=["jpg", "jpeg", "png"])
